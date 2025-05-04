@@ -1,6 +1,6 @@
 # Healer - Your Health Companion App 🩺
 
-Healer is a simulated telehealth mobile application built using Flutter. It connects patients to doctors through an AI-powered consultation flow, mock payment, and simulated video consultation — allowing for a full-cycle patient-doctor experience.
+Healer is a simulated telehealth mobile application built using Flutter. It connects patients to doctors through an AI-powered consultation flow, mock payment, and simulated video consultation allowing for a full-cycle patient-doctor experience.
 
 ---
 
